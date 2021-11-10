@@ -4,7 +4,7 @@
 const array1 = [1, 4, 11, 2, 37, -4];
 
 //sort array by ascending order
-array1.sort(function(a, b){return a-b});
+array1.sort(function(min, max){return min-max});
 
 //console.log(array1);
 
